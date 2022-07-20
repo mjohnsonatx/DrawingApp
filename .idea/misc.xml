@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/mjohn/AndroidStudioProjects/DrawingApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/mjohn/AndroidStudioProjects/DrawingApp/app/src/main/res/drawable/image.xml" value="0.123" />
         <entry key="..\:/Users/mjohn/AndroidStudioProjects/DrawingApp/app/src/main/res/drawable/large.xml" value="0.1" />
         <entry key="..\:/Users/mjohn/AndroidStudioProjects/DrawingApp/app/src/main/res/drawable/medium.xml" value="0.1" />
         <entry key="..\:/Users/mjohn/AndroidStudioProjects/DrawingApp/app/src/main/res/drawable/new_background.xml" value="0.1" />
@@ -12,6 +13,8 @@
         <entry key="..\:/Users/mjohn/AndroidStudioProjects/DrawingApp/app/src/main/res/drawable/small.xml" value="0.312" />
         <entry key="..\:/Users/mjohn/AndroidStudioProjects/DrawingApp/app/src/main/res/layout/activity_main.xml" value="0.16" />
         <entry key="..\:/Users/mjohn/AndroidStudioProjects/DrawingApp/app/src/main/res/layout/dialog_brush_size.xml" value="0.18" />
+        <entry key="..\:/Users/mjohn/AndroidStudioProjects/DrawingApp/app/src/main/res/layout/dialog_custom_progress.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/mjohn/AndroidStudioProjects/DrawingApp/app/src/main/res/xml/path.xml" value="0.365625" />
       </map>
     </option>
   </component>
